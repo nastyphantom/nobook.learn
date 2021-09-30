@@ -17,7 +17,7 @@ Novelty of Solution
 <li>Our core solution can adapt to learners' pace; We provide an easy-to-use web app for curious learners.</li>
  <li>We can extract the content from any image of pages given by the user.</li>
  <li>We constantly evaluate our learners through pop quizzes.</li>
- <li>We use an AI mechanism to check users' answers and generate appropriate reading material if they are not up to the mark.</li>
+ <li>We use an NLP Mechanism to check users' answers and generate appropriate reading material if they are not up to the mark.</li>
  <li>We do not depend on a source of questions, as we can develop them for any topic using AI.</li>
  </ul>
 
@@ -39,13 +39,13 @@ Preview
 ##### ML :
 
   1.	Deep Learning
-  2.  Transformers
-  4.	Natural Language Processing
+  2. Natural Language Processing
+  3. Transformers
   5.	NLTK
   6.	Scikit-Learn
-  7.	Pytorch
-  8.  Rake
-  9.  OCR
+  7.	PyTorch
+  8. Rake
+  9. OCR (Objection Character Recognition)
   
   
 
